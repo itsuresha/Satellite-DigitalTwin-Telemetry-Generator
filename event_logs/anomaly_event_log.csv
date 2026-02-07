@@ -1,0 +1,3 @@
+event_id,subsystem,start,end
+1,Thermal,10,20
+2,Power,50,70
